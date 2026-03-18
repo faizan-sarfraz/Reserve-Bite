@@ -69,7 +69,7 @@ The project follows **MVC architecture** with **GetX** for state management, rou
 
 | Restaurant Detail Top | Restaurant Detail Middle  | Resturant Detail Bottom |
 |-----------------|-------------------|------------|
-| <img src="screenshots/user/user_reservation_detail_top_screen.png" width="200"/> | <img src="screenshots/user/user_resturant_detail_middle_screen.png" width="200"/> | <img src="screenshots/user/user_resturant_detail_bottom.png" width="200"/> 
+| <img src="screenshots/user/user_reservation_detail_top_screen.png" width="200"/> | <img src="screenshots/user/user_resturant_detail_middle_screen.png" width="200"/> | <img src="screenshots/user/user_resturant_detail_bottom_screen.png" width="200"/> 
 
 ## | Book Resturant Top | Book Resturant Bottom | User drawer| 
 | <img src="screenshots/user/user_book_table_top_screen.png" width="200"/> | <img src="screenshots/user/user_book_table_screen_bottom.png" width="200"/> | <img src="screenshots/user/user_drawer_screen.png" width="200"/>
@@ -92,9 +92,9 @@ The project follows **MVC architecture** with **GetX** for state management, rou
 ### Admin Flow
 ### | Admin Login | Admin Home  | Add Restaurant top 
 |-------------|--------------------------|----------------|
-| <img src="screenshots/admin/admin_login_screen.png" width="200"/> | <img src="screenshots/admin/admin_home_screen.png" width="200"/> | <img src="screenshots/admin/admin_add_restaurant_top_screen.png" width="200"/> 
+| <img src="screenshots/admin/admin_login_screen.png" width="200"/> | <img src="screenshots/admin/admin_home_screen.png" width="200"/> | <img src="screenshots/admin/admin_add_resturant_top_screen.png" width="200"/> 
 ## | Add Restaurant bottom|
-|<img src="screenshots/admin/admin_add_restaurant_bottom_screen.png" width="200"/> |
+|<img src="screenshots/admin/admin_add_resturant_bottom_screen.png" width="200"/> |
 
 ---
 
