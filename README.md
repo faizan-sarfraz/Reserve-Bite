@@ -9,7 +9,7 @@
 [![GetX](https://img.shields.io/badge/GetX-4.6.6-8A2BE2)](https://pub.dev/packages/get)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-###📌 Overview
+## 📌 Overview
 
 **Reserve Bite** is a complete restaurant reservation platform that connects **users**, **restaurant owners**, and an **admin**. Built with Flutter and Supabase, it demonstrates real‑time data sync, role‑based access, and a clean, maintainable codebase.
 
