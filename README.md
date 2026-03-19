@@ -164,6 +164,10 @@ Multi‑language support
 ## 📬 Contact
 Created by Faizan Sarfraz  – feel free to reach out!
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 <a href="https://www.linkedin.com/in/faizan-sarfraz-3b150638b?utm_source=share_via&utm_content=profile">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" width="80">
 </a>  
